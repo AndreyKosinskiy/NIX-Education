@@ -45,8 +45,6 @@
           };
           echo '</tr></table>';
           ?>
-        
-      
     </div>
   </main>
   <footer></footer>
